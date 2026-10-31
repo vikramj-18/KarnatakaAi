@@ -1,0 +1,8 @@
+{
+  "name": "Karnataka AI Travel Planner",
+  "description": "Intelligent travel companion for discovering Karnataka with AI itineraries, hidden gems, monsoon intelligence, budget rescue, and cultural heritage guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
